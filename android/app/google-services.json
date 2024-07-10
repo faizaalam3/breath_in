@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197169740217",
+    "project_id": "breath-in12",
+    "storage_bucket": "breath-in12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197169740217:android:e8c48ff90897ebd5ccde68",
+        "android_client_info": {
+          "package_name": "com.example.breathin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRCkcrkAzfwvSJjkfD0vWfjUfAF8oFyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
